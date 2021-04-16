@@ -1,8 +1,8 @@
 body 
 {
-    background-color: grey;
+    background-color: rgb(102, 255, 255);
     font-family: Arial;
-    color:background-color: rgb(102, 255, 255);
+    color: white
 }
 .center {
     text-align: center;
