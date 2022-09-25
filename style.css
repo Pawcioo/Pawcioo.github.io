@@ -1,10 +1,21 @@
 body 
 {
-    background-color: rgb(102, 255, 255);
+    background: rgb(136,159,222);
+background: -moz-linear-gradient(117deg, rgba(136,159,222,1) 0%, rgba(171,118,146,1) 100%);
+background: -webkit-linear-gradient(117deg, rgba(136,159,222,1) 0%, rgba(171,118,146,1) 100%);
+background: linear-gradient(117deg, rgba(136,159,222,1) 0%, rgba(171,118,146,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#889fde",endColorstr="#ab7692",GradientType=1);
     font-family: Arial;
-    color: white
-    font-size: 40px
+    color: white;
+    font-size: 20px
 }
 .center {
     text-align: center;
+  }
+  a:link { text-decoration: none; 
+            color:white ;
+}
+  
+a:visited {
+    color: white;
   }
