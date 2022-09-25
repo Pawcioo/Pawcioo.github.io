@@ -1,0 +1,23 @@
+body {
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(182,138,99,1) 35%, rgba(0,0,0,1) 100%); 
+    font-family:Arial;
+    font-size: 125%;
+    color: white;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    background-color: white;
+  }
+a{
+    color: white;
+}
+ 
+
+.center {
+    text-align: center;
+}
+
+.floatRight{float:right;margin-left:20px}
